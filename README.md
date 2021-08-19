@@ -3,10 +3,10 @@
 
 **Desafio:**
 ```
-|-- challenge
-|   |-- Api
-|   |-- Flow
-|   |   |-- desafiodevadvocate.json
+challenge
+├── Api
+├── Flow
+│  └── desafiodevadvocate.json
 ```
 ---
 
