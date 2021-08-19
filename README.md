@@ -2,15 +2,12 @@
 # Desafio - Developer Advocate
 
 **Desafio:**
-> |-- challenge
-> 
-> |   |-- [Api](https://github.com/gabrielpetrone/takenet-github-repo/tree/main/challenge/Api)
-> 
-> |   |-- [Flow](https://github.com/gabrielpetrone/takenet-github-repo/tree/main/challenge/Flow)
-> 
-> |   |   |-- [desafiodevadvocate.json](https://github.com/gabrielpetrone/takenet-github-repo/blob/main/challenge/Flow/desafiodevadvocate.json)
-
-
+```
+|-- challenge
+|   |-- Api
+|   |-- Flow
+|   |   |-- desafiodevadvocate.json
+```
 ---
 
 👉 [Clique aqui para acessar o chatbot](https://chat.blip.ai/?appKey=ZGVzYWZpb2RldmFkdm9jYXRlOmJhMGE5NzVlLWVkMjQtNGMyYy1hMTM2LWZkODIwYjQ1MGU4Zg==)
